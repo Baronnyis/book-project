@@ -1,1 +1,1 @@
-this is chapter 1 of my Book.
+this is the introductry chapter of the Book.
